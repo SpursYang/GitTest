@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/index2/index",
+			"style": {
+				"navigationBarTitleText": "绑定事件"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "基本语法"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}
