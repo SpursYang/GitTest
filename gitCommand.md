@@ -1,9 +1,9 @@
 # git基本语法
 ## 创建Git全局名称与邮箱
 1.	设置用户名：  
-`git config --global user.name ‘这里填写自己的用户名’ `
+`git config --global user.name '这里填写自己的用户名' `
 2.	设置用户名邮箱  
-`git config --global user.email ‘这里填写自己的用户名邮箱’ `
+`git config --global user.email '这里填写自己的用户名邮箱' `
 >注意空格
 
 ## 初始化Git项目目录
