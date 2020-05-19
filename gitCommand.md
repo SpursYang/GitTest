@@ -1,9 +1,11 @@
 ## 初始化提交前修改  
 找到/.git/config  
+```
 [remote "origin"]
-	url = https://spursyang:Jarchen0412@github.com/SpursYang/GitTest.git 
-	fetch = +refs/heads/*:refs/remotes/origin/*
-> 将url="https://github.com/SpursYang/GitTest.git"修改为url="https://spursyang:密码@github.com/SpursYang/GitTest.git"  
+	url = https://github.com/SpursYang/GitTest.git 
+	fetch = +refs/heads/*:refs/remotes/origin/*  
+```	
+> 将`url="https://github.com/SpursYang/GitTest.git"` 修改为`url="https://spursyang:密码@github.com/SpursYang/GitTest.git" `  
 
 ## 查看历史记录  
 `git log`  
