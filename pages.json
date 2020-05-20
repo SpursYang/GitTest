@@ -1,6 +1,11 @@
 {
 	"pages": [
 		{
+			"path": "pages/index5/index",
+			"style": {
+				"navigationBarTitleText": "组件"
+			}
+		},{
 			"path": "pages/index2/index",
 			"style": {
 				"navigationBarTitleText": "绑定事件"

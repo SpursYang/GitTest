@@ -131,7 +131,7 @@ git status
  - 退出名称  
   'Q' 退出  
   
-  ![diff命令解释](https://raw.githubusercontent.com/SpursYang/GitTest/master/diffExplanation.png)  
+  ![diff命令解释](https://raw.githubusercontent.com/SpursYang/GitTest/master/static/diffExplanation.png)  
   
 ## 修改最后一次本地仓库提交说明  
 `git commit －－amend [-m "重新输入备注"]`
